@@ -46,5 +46,7 @@ The Amazon reviews full score dataset is constructed by randomly taking 600,000 
 
 The files train.csv and test.csv contain all the training samples as comma-sparated values. There are 3 columns in them, corresponding to class index (1 to 5), review title and review text. The review title and text are escaped using double quotes ("), and any internal double quote is escaped by 2 double quotes (""). New lines are escaped by a backslash followed with an "n" character, that is "\n".
 
-# Libraries Used 
+# Lessons Learnt
+
+I had taken up certain Andrew Ng courses on NLP and Deep Learning, learning a lot more about sentimental analysis and just procedure required for reaching our desired solution. This is one of the first models where I learnt how to utilise deep learning model of RNN. 
 
